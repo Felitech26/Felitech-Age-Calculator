@@ -8,7 +8,7 @@
   .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #442177, #70390c);
+    background: linear-gradient(135deg, #3d2638, #69a525);
     color: #ffffff;
     padding: 10px;
   }
@@ -25,7 +25,7 @@
   }
 
   .calculator h1 span {
-    color: #63a192;
+    color: #a58b53;
   }
 
   .input-box {
